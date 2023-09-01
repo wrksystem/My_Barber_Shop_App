@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Barber Shop App</string>
+    <string name="welcome">Bem Vindo(a),Werik</string>
+    <string name="all_services">Todos os Serviços</string>
+    <string name="search_info">pesquisar...</string>
+    <string name="schedule">AGENDAR</string>
+    <string name="haircut">Corte de Cabelo</string>
+    <string name="schedule_one">Agendamento</string>
 </resources>

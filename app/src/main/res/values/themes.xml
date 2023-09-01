@@ -3,6 +3,9 @@
     <style name="Base.Theme.BarberShopApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/midnightblue</item>
+        <item name="colorPrimaryVariant">@color/midnightblue</item>
+
     </style>
 
     <style name="Theme.BarberShopApp" parent="Base.Theme.BarberShopApp" />
