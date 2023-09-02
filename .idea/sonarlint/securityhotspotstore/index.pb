@@ -7,3 +7,13 @@ D
 app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
 k
 ;app/src/main/java/com/example/barbershopapp/MainActivity.kt,6\2\62aa8f395f25660adaf1c3f8b303f3156d54cf70
+v
+Fapp/src/main/java/com/example/barbershopapp/adapter/ServicesAdapter.kt,c\8\c81fc0a43cd2eba1dfe33b6410469d61d763ce15
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+l
+<app/src/main/java/com/example/barbershopapp/view/Schedule.kt,3\8\38576f5f221abbdfc9f8f9be721f7e8e2bd25591
+m
+=app/src/main/java/com/example/barbershopapp/model/Services.kt,1\2\12d58788c0709f132455e1193d3f56b7abeabb2a
